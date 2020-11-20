@@ -9,5 +9,5 @@ Kaggle Competition: Dog vs Cat Image Detection
     Datapoints: 25K images ( ~1GB )
     
 
- Final Validation Accuracy: 86.95%
+ Final Validation Accuracy(10 epochs): 86.95%
 
