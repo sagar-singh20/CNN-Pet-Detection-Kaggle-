@@ -16,4 +16,4 @@ Kaggle Competition: Pet Detection
  
   Final Validation Accuracy(Phase 2): 83.80%
   
-    - Enhanced Model layers to go deeper and detect pets in transformed images
+    - Enhanced Model layers to go deeper and detect pets in transformed images(rotated/stretched)
