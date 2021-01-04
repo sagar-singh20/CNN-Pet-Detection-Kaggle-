@@ -7,6 +7,13 @@ Kaggle Competition: Pet Detection
     URL: https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
     
     Datapoints: 25K images of Dogs and Cats ( ~1GB )
+
+
+
+  Underlying Model: 
+     
+     Trained a Custom Model from scratch
+    
     
 
  Final Validation Accuracy(Phase 1): 86.95%
